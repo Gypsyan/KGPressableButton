@@ -28,7 +28,7 @@ pod 'KGPressableButton'
 
 Then, run the following command.
 
-```bash
+```
 $ pod install
 ```
 ## Carthage
