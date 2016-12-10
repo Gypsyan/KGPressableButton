@@ -64,7 +64,7 @@ Come to the `attribute inspector` and add the feature,
 @IBAction func start(_ sender: Any) {
 
         button.performAction()
-    }
+}
   ```
 # License
 
