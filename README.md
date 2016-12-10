@@ -8,7 +8,6 @@
 
 `KGPressableButton` is a Custom loading animation.
 
-
 # Installation
 
 ## Cocoapods
