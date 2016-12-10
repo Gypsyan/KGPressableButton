@@ -42,7 +42,7 @@ $ brew install carthage
 
 Add `KGPressableButton` in your `Cartfile`.
 
-```ruby
+```
 github "Gypsyan/KGPressableButton"
 ```
 
