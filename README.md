@@ -59,7 +59,7 @@ Come to the `attribute inspector` and add the feature,
 
   To start animation call this,
 
-  ```
+```
 @IBOutlet var button: KGPressableButton!
 @IBAction func start(_ sender: Any) {
 
