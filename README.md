@@ -57,7 +57,6 @@ Come to the `attribute inspector` and add the feature,
 
   * After Delay --  Set the time to stop the animation
 
-
   To start animation call this,
 
   ```
