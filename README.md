@@ -62,8 +62,7 @@ Come to the `attribute inspector` and add the feature,
 ```
 @IBOutlet var button: KGPressableButton!
 @IBAction func start(_ sender: Any) {
-
-        button.performAction()
+  button.performAction()
 }
   ```
 # License
