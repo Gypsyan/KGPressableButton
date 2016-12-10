@@ -35,7 +35,7 @@ $ pod install
 
 Install Carthage if need be.
 
-```bash
+```
 $ brew update
 $ brew install carthage
 ```
