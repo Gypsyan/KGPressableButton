@@ -20,7 +20,7 @@ $ gem install cocoapods
 
 Add `KGPressableButton` in your `Podfile`.
 
-```ruby
+```
 use_frameworks!
 
 pod 'KGPressableButton'
